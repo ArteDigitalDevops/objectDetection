@@ -1,4 +1,4 @@
-# What the thing is?
+# What the thing is? 
 
 Object detection application with trained models - translating the predictions to help learn a new language :)
 
