@@ -1,5 +1,4 @@
 # What the thing is?  
-
 Object detection application with trained models - translating the predictions to help learn a new language :)
 
 Built with React Native, Clarifai, and Microsoft Translator!
